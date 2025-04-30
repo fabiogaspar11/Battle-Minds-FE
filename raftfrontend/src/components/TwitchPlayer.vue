@@ -1,7 +1,7 @@
 <template>
   <div class="twitch-container">
     <iframe
-      src="https://player.twitch.tv/?channel=rtparenacs&parent=localhost"
+src="https://player.twitch.tv/?channel=rtparenacs&parent=fabiogaspar11.github.io//Battle-Minds&parent=localhost"
       allowfullscreen>
     </iframe>
   </div>
@@ -11,7 +11,7 @@
 .twitch-container {
   display: flex;
   justify-content: center;
-  margin-top: 50px; /* push it down */
+  margin-top: 20px; /* push it down */
 }
 
 .twitch-container iframe {

@@ -27,7 +27,6 @@ body {
   background-image: url("/public/background3.png"); /* no need for /public prefix */
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
   background-repeat: no-repeat;
   margin: 0;
   padding: 0;
@@ -60,7 +59,7 @@ body {
 }
 
 .ai-team {
-  margin-top: 50px;
+  margin-top: 20px;
   list-style: none;
   padding: 0;
   margin-bottom: 40px;
