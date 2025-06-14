@@ -1,9 +1,10 @@
 <template>
   <div class="twitch-container">
-    <iframe
-src="https://player.twitch.tv/?channel=rtparenacs&parent=fabiogaspar11.github.io//Battle-Minds&parent=localhost"
-      allowfullscreen>
-    </iframe>
+  <iframe
+    src="https://player.twitch.tv/?channel=chapinho&parent=fabiogaspar11.github.io&parent=localhost"
+    allowfullscreen>
+  </iframe>
+
   </div>
 </template>
 
