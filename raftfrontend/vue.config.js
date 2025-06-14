@@ -1,5 +1,4 @@
-const { defineConfig } = require('@vue/cli-service')
-module.exports = defineConfig({
-  transpileDependencies: true,
-  publicPath: '/Battle-Minds/',
-})
+module.exports = {
+  publicPath: '/Battle-Minds-FE/',
+  
+};
